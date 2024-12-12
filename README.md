@@ -1,4 +1,4 @@
-# node-kido
+# Mult
 ## Node.js Backend Architecture Typescript
 ### Un backend complet modulaire basé sur express et typescript
 
